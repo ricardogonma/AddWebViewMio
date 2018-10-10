@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddWebViewMio</string>
+    <string name="nombre">Nombre</string>
+    <string name="clave">Clave</string>
+    <string name="iniAuto">iniAuto</string>
+    <string name="datosCorrectos">datosCorrectos</string>
+    <string name="check">¿Quieres iniciar sesión automáticamente?</string>
+    <string name="btn">Iniciar</string>
+
+    <string name="errorCampos">Por favor, rellene ambos campos</string>
+    <string name="errorNombre">Por favor, rellene el nombre de usuario</string>
+    <string name="errorClave">Por favor, rellene la clave</string>
+</resources>
